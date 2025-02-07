@@ -96,12 +96,12 @@ plt.show()
 ---
 
 ## 📜 **License**  
-MIT License - See [LICENSE](LICENSE) for details.  
+MIT License 
 
 ---
 
 👩💻 **Author**: Ornella Gigante  
-📧 **Contact**: your.email@example.com  
+
 🔗 **GitHub**: [@yourusername](https://github.com/yourusername)  
 
 *"Transform images like a pro with PyTorch's powerful vision toolkit!"* 🚀  
