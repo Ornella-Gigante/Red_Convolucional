@@ -102,7 +102,5 @@ MIT License
 
 👩💻 **Author**: Ornella Gigante  
 
-🔗 **GitHub**: [@yourusername](https://github.com/yourusername)  
-
 *"Transform images like a pro with PyTorch's powerful vision toolkit!"* 🚀  
 
